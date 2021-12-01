@@ -1,0 +1,10 @@
+streamlit
+pandas
+openpyxl
+watchdog
+plotly
+webdriver-manager
+selenium
+tqdm
+transformers[torch]
+clean-text[gpl]
